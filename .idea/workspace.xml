@@ -127,7 +127,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="256" />
     <option name="y" value="-697" />
     <option name="width" value="1007" />
@@ -304,19 +304,18 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41056000" />
+    <option name="totallyTimeSpent" value="41138000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="256" y="-697" width="1007" height="660" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="-697" width="1280" height="697" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.4537037" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31666666" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20829016" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.6221837" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16235864" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32956383" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32928944" />
